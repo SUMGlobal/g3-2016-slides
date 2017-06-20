@@ -1,1 +1,3 @@
-# g3-2016-slides
+# G3 Summit 2016 Slides
+
+PDF version.
